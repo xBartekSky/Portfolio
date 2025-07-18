@@ -34,7 +34,7 @@ export const SkillCard = ({
       <p className="mt-2 text-sm font-semibold text-white">{label}</p>
 
       {hovered && (
-        <div className="absolute top-full mt-2 w-64 bg-slate-800 text-gray-300 text-xs p-3 rounded-xl shadow-xl z-50 flex flex-col gap-2">
+        <div className="absolute top-full mt-2 w-full lg:w-64 bg-slate-800 text-gray-300 text-xs p-3 rounded-xl shadow-xl z-50 flex flex-col  gap-2">
           <p>{description}</p>
           {usecase && (
             <>
