@@ -27,7 +27,7 @@ export const Projects = () => {
         />
         <ProjectCard
           src="/webhotel.png"
-          stack={["React", "Tailwind"]}
+          stack={["React", "CSS", "Spring Boot", "Stripe"]}
           title="Webhotel -Full-stack hotel management and reservation system built with React & Spring Boot "
           desc="A full-stack Booking clone where users can add, edit, and delete hotels, browse available rooms, and make reservations via a React frontend communicating with a Spring Boot backend that handles data persistence, business logic, and API endpoints.."
           codeLink="https://github.com/xBartekSky/Booking-Clone"
