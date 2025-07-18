@@ -43,7 +43,7 @@ export const ProjectCard = ({
           ))}
         </div>
 
-        <div className="mt-auto flex gap-3">
+        <div className="mt-auto flex gap-3 flex-wrap">
           <Button icon={FaCode} label="Code" link={codeLink} />
           <Button
             icon={CgMediaLive}
