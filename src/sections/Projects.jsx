@@ -28,8 +28,8 @@ export const Projects = () => {
         <ProjectCard
           src="/webhotel.png"
           stack={["React", "Tailwind"]}
-          title="Taskly - Simple, efficient task management app"
-          desc="TodoApp to prosty i intuicyjny menedżer zadań, który pomaga użytkownikom organizować codzienne zadania."
+          title="Webhotel -Full-stack hotel management and reservation system built with React & Spring Boot "
+          desc="A full-stack Booking clone where users can add, edit, and delete hotels, browse available rooms, and make reservations via a React frontend communicating with a Spring Boot backend that handles data persistence, business logic, and API endpoints.."
           codeLink="https://github.com/xBartekSky/Booking-Clone"
         />
       </div>
