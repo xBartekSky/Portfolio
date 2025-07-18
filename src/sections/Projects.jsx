@@ -21,7 +21,7 @@ export const Projects = () => {
           src="/todo.png"
           stack={["React", "Tailwind"]}
           title="Taskly - Simple, efficient task management app"
-          desc="TodoApp to prosty i intuicyjny menedżer zadań, który pomaga użytkownikom organizować codzienne zadania."
+          desc="Simple and intuitive task manager that helps users organize their daily tasks."
           liveLink="https://tasklybf.netlify.app/"
           codeLink="https://github.com/xBartekSky/Taskly"
         />

@@ -14,7 +14,7 @@ export const GradientLink = ({ label, link, onclick }) => {
       to={link}
       smooth={true}
       duration={100}
-      offset={0}
+      offset={-20}
       spy={true}
       onClick={onclick}
       activeClass="bg-gradient-to-r from-orange-600 to-orange-400 bg-clip-text text-transparent border-b-2 border-orange-400 font-bold"
