@@ -63,7 +63,7 @@ export const Hero = () => {
           >
             <img
               className="size-200 transition-all duration-300 hover:scale-[1.05]"
-              src="src/assets/mainImage.svg"
+              src="/mainImage.svg"
               alt="Main visual"
             />
           </motion.div>

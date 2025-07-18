@@ -18,7 +18,7 @@ export const Projects = () => {
 
       <div className="w-full flex flex-wrap gap-6 justify-center mt-10">
         <ProjectCard
-          src="src/assets/todo.png"
+          src="/todo.png"
           stack={["React", "Tailwind"]}
           title="Taskly - Simple, efficient task management app"
           desc="TodoApp to prosty i intuicyjny menedżer zadań, który pomaga użytkownikom organizować codzienne zadania."
@@ -26,7 +26,7 @@ export const Projects = () => {
           codeLink="https://github.com/xBartekSky/Taskly"
         />
         <ProjectCard
-          src="src/assets/webhotel.png"
+          src="/webhotel.png"
           stack={["React", "Tailwind"]}
           title="Taskly - Simple, efficient task management app"
           desc="TodoApp to prosty i intuicyjny menedżer zadań, który pomaga użytkownikom organizować codzienne zadania."
